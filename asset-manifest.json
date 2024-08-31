@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.343963b2.chunk.js",
-    "main.js.map": "/static/js/main.343963b2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1dc6c87a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1dc6c87a.js.map",
-    "static/css/2.6f004c14.chunk.css": "/static/css/2.6f004c14.chunk.css",
-    "static/js/2.a14615a9.chunk.js": "/static/js/2.a14615a9.chunk.js",
-    "static/js/2.a14615a9.chunk.js.map": "/static/js/2.a14615a9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7c1a3f357d97c2636675b54e3714c206.js": "/precache-manifest.7c1a3f357d97c2636675b54e3714c206.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.6f004c14.chunk.css.map": "/static/css/2.6f004c14.chunk.css.map",
-    "static/js/2.a14615a9.chunk.js.LICENSE.txt": "/static/js/2.a14615a9.chunk.js.LICENSE.txt"
+    "main.js": "/pioneer-institute-of-Learning/static/js/main.68d3b924.chunk.js",
+    "main.js.map": "/pioneer-institute-of-Learning/static/js/main.68d3b924.chunk.js.map",
+    "runtime-main.js": "/pioneer-institute-of-Learning/static/js/runtime-main.f26c0f32.js",
+    "runtime-main.js.map": "/pioneer-institute-of-Learning/static/js/runtime-main.f26c0f32.js.map",
+    "static/css/2.6f004c14.chunk.css": "/pioneer-institute-of-Learning/static/css/2.6f004c14.chunk.css",
+    "static/js/2.c5f9c556.chunk.js": "/pioneer-institute-of-Learning/static/js/2.c5f9c556.chunk.js",
+    "static/js/2.c5f9c556.chunk.js.map": "/pioneer-institute-of-Learning/static/js/2.c5f9c556.chunk.js.map",
+    "index.html": "/pioneer-institute-of-Learning/index.html",
+    "precache-manifest.16ae42c2dd2d9c6aecadb866da72f476.js": "/pioneer-institute-of-Learning/precache-manifest.16ae42c2dd2d9c6aecadb866da72f476.js",
+    "service-worker.js": "/pioneer-institute-of-Learning/service-worker.js",
+    "static/css/2.6f004c14.chunk.css.map": "/pioneer-institute-of-Learning/static/css/2.6f004c14.chunk.css.map",
+    "static/js/2.c5f9c556.chunk.js.LICENSE.txt": "/pioneer-institute-of-Learning/static/js/2.c5f9c556.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1dc6c87a.js",
+    "static/js/runtime-main.f26c0f32.js",
     "static/css/2.6f004c14.chunk.css",
-    "static/js/2.a14615a9.chunk.js",
-    "static/js/main.343963b2.chunk.js"
+    "static/js/2.c5f9c556.chunk.js",
+    "static/js/main.68d3b924.chunk.js"
   ]
 }
